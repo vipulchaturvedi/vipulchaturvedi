@@ -3,11 +3,10 @@
 
 
 ### 👋 hey, i'm Vipul!
-A Passionate Computer Science Student From India
-	
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vipulchaturvedi&color=blueviolet&style=flat">
-</p>
+A Passionate Computer Science Student From India. I like to try to reinvent the wheel, sometimes, so that I learn more about how somthing works.
+I enjoy coding, and am interested in DevOps, Operating Systems, and Programing Languages.
+
+There is one big thing: I am willing to learn to code/use anything, I just need to have something to test on.
 
 
 I use these things here:
@@ -34,7 +33,7 @@ Me on other places:
 </p>
 
 <p align="left">
-<a href="https://github.com/vipulchaturvedi">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vipulchaturvedi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=vipulchaturvedi&color=blueviolet&style=flat">
 </p>
