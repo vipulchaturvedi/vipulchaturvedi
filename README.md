@@ -9,13 +9,6 @@ A Passionate Computer Science Student From India
   <img src="https://komarev.com/ghpvc/?username=vipulchaturvedi&color=blueviolet&style=flat">
 </p>
 
-I use these things here:
-
-<p align="left">
-  <img alt="Javascript Icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="30px" width="30">
-  <img alt="VSCode icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height="30px" width="30">
-</p>
-
 I am (attempting to) learn:
 
 <p align="left">
@@ -36,7 +29,7 @@ Me on other places:
 
 <p align="left">
 <a href="https://github.com/vivek9patel">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vivek9patel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vivek9patel&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vipulchaturvedi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vipulchaturvedi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
