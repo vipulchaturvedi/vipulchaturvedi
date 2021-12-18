@@ -37,6 +37,6 @@ Me on other places:
 
 <p align="left">
 <a href="https://github.com/vipulchaturvedi">
-  <img height="50em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vipulchaturvedi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vipulchaturvedi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
