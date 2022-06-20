@@ -21,16 +21,15 @@ I am (attempting to) learn:
 
 <p align="left">
   <img alt="Javascript Icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="30px" width="30">
-  <img alt="Kotlin Icon" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Kotlin_logo.svg" height="31px" width="30">
+  <img alt="Kotlin Icon" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png" height="31px" width="30">
 </p>
 
 Me on other places:
 <p align="left" margin="auto">
-    <a href="https://linkedin.com/in/chaturvedivipul"><img alt="LinkedIn" title="LinkedIn" height="30"  width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
- <a href="https://discord.com/users/645995676953608202"><img alt="Discord" title="Discord" height="30" width="30"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
-  <a href="https://www.reddit.com/user/VipulChaturvedi">
-  <img src="https://cdn2.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Reddit-512.png" height="30px" width="30">
-    </a>
+<a href="https://linkedin.com/in/chaturvedivipul"><img alt="LinkedIn" title="LinkedIn" height="30"  width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+<a href="https://discord.com/users/645995676953608202"><img alt="Discord" title="Discord" height="30" width="30"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
+ <a href="https://www.reddit.com/user/VipulChaturvedi">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Reddit-512.png" height="30px" width="30"></a>
     <a href="https://t.me/vipulchaturvedi"><img alt="Telegram" title="Telegram" height="30"  width="30" src="https://telegram.org/img/t_logo.svg"></a>
 </p>
 
