@@ -3,7 +3,7 @@
 
 
 ### 👋 hey, i'm Vipul!
-A Passionate Computer Science Student From India. I like to try to reinvent the wheel, sometimes, so that I learn more about how somrthing works.
+A Passionate Computer Science Student From India. I like to try to reinvent the wheel, sometimes, so that I learn more about how something works.
 I enjoy coding, and am interested in DevOps, Data Science, and Programing Languages.
 
 
