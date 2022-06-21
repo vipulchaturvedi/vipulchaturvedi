@@ -7,7 +7,7 @@ A Passionate Computer Science Student From India. I like to try to reinvent the 
 I enjoy coding, and am interested in DevOps, Data Science, and Programing Languages.
 
 
-I use these things here:
+I use these things:
 
 <p align="left">
   <img alt="Python Icon" src="https://i.imgur.com/GZRmmx6.png" height="31px" width="30">
@@ -15,7 +15,7 @@ I use these things here:
   <img alt="VSCode icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height="30px" width="30">
 </p>
 
-I am (attempting to) learn:
+I am attempting to learn:
 
 <p align="left">
   <img alt="Javascript Icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="30px" width="30">
