@@ -4,7 +4,7 @@
 
 ### 👋 hey, i'm Vipul!
 A Passionate Computer Science Student From India. I like to try to reinvent the wheel, sometimes, so that I learn more about how something works.
-I enjoy coding, and am interested in DevOps, Data Science, and Programing Languages.
+I enjoy coding, and am interested in DevOps, Data Science, and FullStack Web Development.
 
 
 I use these things:
